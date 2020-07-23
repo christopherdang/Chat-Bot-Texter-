@@ -1,0 +1,100 @@
+{
+  "intents": [
+    {
+      "tag": 0,
+      "responses": "Hi",
+      "patterns": "Hello",
+      "context_set": ""
+    },
+    {
+      "tag": 1,
+      "responses": "Morning",
+      "patterns": "Good Morning",
+      "context_set": ""
+    },
+    {
+      "tag": 2,
+      "responses": "Night",
+      "patterns": "night",
+      "context_set": ""
+    },
+    {
+      "tag": 3,
+      "responses": "yeah later at Polos",
+      "patterns": "6pm at Polos, right?",
+      "context_set": ""
+    },
+    {
+      "tag": 4,
+      "responses": "kind of",
+      "patterns": "are you busy",
+      "context_set": ""
+    },
+    {
+      "tag": 5,
+      "responses": "I am working on the usual, hbu",
+      "patterns": "What are you doing",
+      "context_set": ""
+    },
+    {
+      "tag": 6,
+      "responses": "Cool cool",
+      "patterns": "I am working",
+      "context_set": ""
+    },
+    {
+      "tag": 7,
+      "responses": "how are you",
+      "patterns": "yes everyhthing ok",
+      "context_set": ""
+    },
+    {
+      "tag": 8,
+      "responses": "i am fine, how about you",
+      "patterns": "are you ok",
+      "context_set": ""
+    },
+    {
+      "tag": 9,
+      "responses": "whats wrong",
+      "patterns": "?????",
+      "context_set": ""
+    },
+    {
+      "tag": 10,
+      "responses": "what did yooou eat",
+      "patterns": "What did you eat",
+      "context_set": ""
+    },
+    {
+      "tag": 11,
+      "responses": "bye",
+      "patterns": "bye",
+      "context_set": ""
+    },
+    {
+      "tag": 12,
+      "responses": "hard to explain",
+      "patterns": "what kind of stuff",
+      "context_set": ""
+    },
+    {
+      "tag": 13,
+      "responses": "uhhh nvm",
+      "patterns": "excuse me",
+      "context_set": ""
+    },
+    {
+      "tag": 14,
+      "responses": "Ok ok thats good",
+      "patterns": "im fine",
+      "context_set": ""
+    },
+    {
+      "tag": 15,
+      "responses": "Sure, but after I finish all my work",
+      "patterns": "do you want to eat",
+      "context_set": ""
+    }
+  ]
+}
